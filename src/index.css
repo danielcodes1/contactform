@@ -1,0 +1,17 @@
+form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .MuiButton-root {
+    background-color: #3f51b5;
+    color: #fff;
+    &:hover {
+      background-color: #303f9f;
+    }
+  }
+  
+  .MuiTypography-root {
+    margin-bottom: 20px;
+  }
+  
